@@ -1,20 +1,20 @@
 {
-  "name": "mxstbr",
-  "version": "1.0.1",
-  "description": "Max Stoiber (@mxstbr)'s business card",
+  "name": "sbstjn",
+  "version": "0.1.0",
+  "description": "Sebastian Müller (@sbstjn)'s business card",
   "main": "index.js",
   "bin": {
     "mxstbr": "./bin/card.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mxstbr/businesscard.git"
+    "url": "https://github.com/sbstjn/businesscard.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 0"
   },
   "keywords": [],
-  "author": "Max Stoiber",
+  "author": "Sebastian Müller",
   "license": "MIT",
   "dependencies": {
     "boxen": "^2.1.0",

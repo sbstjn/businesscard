@@ -1,7 +1,7 @@
-It's me, Max!
+It's me, Sebastian!
 
 # Usage
 
 ```
-npx mxstbr
+npx sbstjn
 ```
